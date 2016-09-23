@@ -23,6 +23,11 @@ body {
   color: $darkGray;
 }
 
+table {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
 table, th, td {
    border: 1px solid black;
 }
