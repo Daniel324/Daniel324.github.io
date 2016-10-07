@@ -19,7 +19,8 @@ html {
 
 body {
 	background-image: url(http://hdwallpaperbackgrounds.net/wp-content/uploads/2016/08/cool-white-background.jpg);
-	background-position: fixed;
+	background-attachment: fixed;
+	
   font: 18px/1.4 "Rockwell Extra Bold","Rockwell Bold";
 	font-family: "Lucida Console", Monaco, monospace;
   color: $darkGray;
