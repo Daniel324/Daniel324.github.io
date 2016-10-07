@@ -17,7 +17,8 @@ published: true
   </tr>
   <tr>
     <td>Starting point:</td>
-    <td>Started making a spreadsheet</td>
+
+<td>Started making a spreadsheet</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
